@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oluwadamilola "Dammy" for short
 - 👀 I’m interested in Problem Solving 
-- 🌱 I’m currently pursuing my Master's Degree in Software Engineering
-- 💞️ I’m looking to collaborate on Web, Mobile and other software Programs
+- 🌱 I have a Master's Degree in Software Engineering and a Bachelor's in Computer Science
+- 💞️ I’m looking to collaborate on Web, Mobile, and other software Programs
 
 
 <!---
